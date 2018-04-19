@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="whitecolor">#fff</color>
+    <color name="pink">#EE6AA7</color>
+    <!--<color name="windowBackgroud">#1b1a1f</color>-->
+    <color name="windowBackgroud">#f27854</color>
+    <color name="color_bg_gray_f0f2f4">#F0F2F4</color>
+    <color name="f7">#f7f7f7</color>
+    <color name="thress6">#666666</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> 智慧党建</string>
+    <string name="headpagetext">首页</string>
+    <string name="studytext">学习</string>
+    <string name="tasktext">任务</string>
+    <string name="minetext">我的</string>
+
+</resources>
